@@ -147,17 +147,3 @@ compilers: {
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
 
-
-Deploying 'StarNotary'
-   ----------------------
-   > transaction hash:    0x67d76107a2a7e74040c4f8f8fd8b807b58136964275720a5ca732f273e2b2952
-   > Blocks: 2            Seconds: 16
-   > contract address:    0x61c615e22b3f6CBdaBb1a59F2637F3D0D9986aEA
-   > block number:        8104654
-   > block timestamp:     1670597700
-   > account:             0xBdc118604FAc2DFA1c5076Eafc5232ebCA22A66F
-   > balance:             0.19370876926574368
-   > gas used:            2214864 (0x21cbd0)
-   > gas price:           2.529400772 gwei
-   > value sent:          0 ETH
-   > total cost:          0.005602278711475008 ETH
